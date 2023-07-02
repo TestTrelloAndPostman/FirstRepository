@@ -44,6 +44,18 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "createBoard",
+			"id": "27adca51-9a61-468d-8ce6-0de8db73b877",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
