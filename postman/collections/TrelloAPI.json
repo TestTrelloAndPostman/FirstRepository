@@ -121,6 +121,18 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "InviteMember",
+			"id": "e77e933e-af97-446e-8a05-164d081c99e1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
