@@ -1,3 +1,3 @@
 # FirstRepository
 
-Pierwsze repozytorium do ćwiczeń 
+Pierwsze repozytorium do ćwiczeń.
